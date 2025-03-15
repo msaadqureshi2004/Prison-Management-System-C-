@@ -88,7 +88,6 @@ To run the program, you need:
 ## Author
 
 - **Muhammad Saad Qureshi**
-- **ID**: F2023266479
 
 ## License
 
